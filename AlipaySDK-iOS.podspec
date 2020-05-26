@@ -4,7 +4,7 @@ s.version          = "15.7.5"
 s.summary          = "AlipaySDK-iOS"
 
 s.description      = <<-DESC
-Ö§¸¶±¦¹Ù·½SDK
+æ”¯ä»˜å®å®˜æ–¹SDK
 DESC
 
 s.homepage         = "https://github.com/beambeam/AlipaySDK_No_UTDID.git"
