@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-s.name             = "AlipaySDK-iOS"
+s.name             = "AlipaySDK_No_UTDID"
 s.version          = "15.7.5"
-s.summary          = "AlipaySDK-iOS"
+s.summary          = "AlipaySDK_No_UTDID"
 
 s.description      = <<-DESC
 支付宝官方SDK
