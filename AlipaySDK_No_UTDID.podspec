@@ -9,7 +9,7 @@ DESC
 
 s.homepage         = "https://github.com/beambeam/AlipaySDK_No_UTDID.git"
 s.license          = { :type => "MIT", :file => "LICENSE" }
-s.author           = { "shanjia" => "beambeam@126.com" }
+s.author           = { "beam" => "beambeam@126.com" }
 
 
 s.platform         = :ios, '9.0'
